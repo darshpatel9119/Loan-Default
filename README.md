@@ -81,6 +81,8 @@ This page focuses on borrower characteristics and examines how factors such as c
 9. **Total Loan Amount for Mid-Adult Age Group by Mortgage and Dependents** – Clustered Column Chart
 10. **Total Loans by Education Type** – Line Chart
 
+<img src="Images/Applicants Insights 2.PNG" alt="Applicants Insights" width="100%">
+
 ---
 
 ## 3. Risk & Performance
