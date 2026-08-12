@@ -96,6 +96,8 @@ This page focuses on loan performance, year-over-year changes, default trends, a
 13. **YTD Loan Amount by Credit Score Bins and Marital Status** – Ribbon Chart
 14. **Loan Amount Analysis by Income Bracket and Employment Type** – Decomposition Tree
 
+<img src="Images/Risk Performance 3.PNG" alt="Risk & Performance" width="100%">
+
 ---
 
 ## 🛠️ Tools & Technologies
