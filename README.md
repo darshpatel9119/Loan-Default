@@ -65,6 +65,8 @@ This page provides an overall view of loan amounts, borrower income, employment 
 4. **Average Loan Amount by Age Group** – Line Chart
 5. **Default Rate by Year** – Line Chart
 
+<img src="Images/House Market Overveiw.PNG" alt="Loan Overview" width="100%">
+
 ---
 
 ## 2. Applicant Insights
